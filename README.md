@@ -1,10 +1,10 @@
 <h1>Restaurant Finder App</h1>
 
-    This app is developed in node js. This application doesn't have UI and only has a backend server.
+    This app is developed in node js. This application doesn't have UI and only has a backend server. The entire development of this project is done in windows.
   
 <h3>Prerequisites and steps to run</h3>
 
- * Install node js by clicking windows install button here https://nodejs.org/en/download/ as shown below.  ![](screenshots/node%20install.JPG)
+ * Install node js by from here https://nodejs.org/en/download/ by chosing the appropriate option for your operating system.  ![](screenshots/node%20install.JPG)
  * Clone this repository and run `npm install` in this repository from the command line (terminal). It will install all the dependencies, as shown below. This will create a node modules folder in the directory. ![](screenshots/NpmInstall.JPG)
  * Run `node app.js` to start the node js server. This will start the server on 127.0.0.1:8081.
     ![](screenshots/node%20run.JPG)
