@@ -5,7 +5,7 @@
 <h3>Prerequisites and steps to run</h3>
 
  * Install node js by clicking windows install button here https://nodejs.org/en/download/ as shown below.  ![](screenshots/node%20install.JPG)
- * Clone this repository and run `npm install` in this repository from the command line (terminal). It will install all the dependencies, as shown below![](screenshots/NpmInstall.JPG)
+ * Clone this repository and run `npm install` in this repository from the command line (terminal). It will install all the dependencies, as shown below. This will create a node modules folder in the directory. ![](screenshots/NpmInstall.JPG)
  * Run `node app.js` to start the node js server. This will start the server on 127.0.0.1:8081.
     ![](screenshots/node%20run.JPG)
  * To search for the api use the following URL <br/>
