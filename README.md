@@ -10,7 +10,7 @@
     ![](screenshots/node%20run.JPG)
  * To search for the api use the following URL <br/>
     `localhost:8081/restaurants?name=restaurantName&rating=customerRating&distance=restaurantDistance&price=price&cuisine=cusinieName`
- * A sample url is http://localhost:8081/restaurants?name=deli&rating=3&distance=10&price=25&cuisine=chi. Copy this URL to any web browser to test it.
+ * A sample url is http://localhost:8081/restaurants?name=deli&rating=3&distance=10&price=25&cuisine=chi. Copy this URL to any web browser to test it. Postman can also be used to test this URL. Postman can be downloaded from here https://www.postman.com/downloads/.
  * Here all the query strings are optional, if no query strings are provided and you just use the url localhost:8081/restaurants, then it will give you the top 5 closest restaurants from the given list of restaurants in CSV.
 
  <h3>Testing Examples</h3>
